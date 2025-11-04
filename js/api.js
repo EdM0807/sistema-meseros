@@ -1,6 +1,5 @@
 // Configuración de la API - ESTA URL LA ACTUALIZAREMOS DESPUÉS
-const API_BASE_URL = 'https://tuaplicacion-production.up.railway.app';
-
+const API_BASE_URL = 'https://tu-app.onrender.com';
 class ApiService {
     constructor() {
         this.baseUrl = API_BASE_URL;
